@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
+  <a href="http://kar.fit/" target="blank"><img src="http://bayanbox.ir/download/2706147265701560960/HR-Audits.png" width="320" alt="Nest Logo" /></a>
 </p>
 
 [travis-image]: https://api.travis-ci.org/nestjs/nest.svg?branch=master
